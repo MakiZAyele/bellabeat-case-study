@@ -47,4 +47,4 @@ In-App Sleep Coaching: Offer specialized sleep hygiene articles and coaching sub
 * World Health Organization. (2020). *WHO guidelines on physical activity and sedentary behaviour*. World Health Organization. https://www.who.int/publications/i/item/9789240015128
 
 ##  Deliverables
-Presentation Deck: [Link to your PowerPoint or PDF slides here]
+Presentation Deck: https://docs.google.com/presentation/d/1M3Vy_w15aOS06-GhdkNkALKvqJi9ovpt20bYnImQp5k/edit?usp=sharing
